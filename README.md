@@ -44,7 +44,7 @@ openpyxl>=3.1
    ```
 4. Run:
    ```powershell
-   streamlit run hmpi_app.py
+   streamlit run app.py
    ```
    - Open `http://localhost:8501`
    - If port busy: `streamlit run hmpi_app.py --server.port 8502`
