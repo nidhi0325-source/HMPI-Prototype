@@ -32,7 +32,7 @@ openpyxl>=3.1
 ```
 
 ### Quick Start (Windows, PowerShell)
-1. Put `hmpi_app.py` and `requirements.txt` in the same folder.
+1. Put 'app.py` and `requirements.txt` in the same folder.
 2. (Optional) Virtual environment:
    ```powershell
    py -m venv .venv
