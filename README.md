@@ -47,7 +47,7 @@ openpyxl>=3.1
    streamlit run app.py
    ```
    - Open `http://localhost:8501`
-   - If port busy: `streamlit run hmpi_app.py --server.port 8502`
+   - If port busy: `streamlit run app.py --server.port 8502`
 
 ### Data Input
 - **Manual Entry**: Provide comma-separated site names and metal concentrations for Pb, Hg, Cd, As, Cr.
